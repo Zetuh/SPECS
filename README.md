@@ -7,12 +7,12 @@
 - **MEMORY**: Corsair Vengeance LPX DDR4 16GB
 - **STORAGE**: Samsung SSD 970 EVO 1TB
 - **MOTHERBOARD**: MSI X470 Gaming Plus
-- **CASE**: Thermaltake Versa H23 with window chassis
+- **CASE**: Lian Li Lancool II Mesh RGB (BLACK)
 
 # ⌨️ Peripherals
 * **KEYBOARD**: Keychron K8
-* **MOUSE**: Razer Viper Ultimate Wireless
-* **MOUSEPAD**: HyperX Fury S Shroud Edition Pro Gaming Mouse Pad X-Large
+* **MOUSE**: Logitech GPRO X Superlight (with superglide mouse feet)
+* **MOUSEPAD**: Odin Infinity Hybrid 19" x 16.5"
 * **MIC**: HyperX Quadcast
 * **HEADPHONES**: Apple Earbuds with 3.5mm connector
 * **CAMERA**: Logitech C920
