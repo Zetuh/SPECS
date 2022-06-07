@@ -11,7 +11,7 @@
 
 # ⌨️ Peripherals
 * **KEYBOARD**: Keychron K8
-* **MOUSE**: Logitech GPRO X Superlight (with superglide mouse feet)
+* **MOUSE**: Logitech GPRO X Superlight White (with superglide mouse feet)
 * **MOUSEPAD**: Odin Infinity Hybrid 19" x 16.5"
 * **MIC**: HyperX Quadcast
 * **HEADPHONES**: Apple Earbuds with 3.5mm connector
